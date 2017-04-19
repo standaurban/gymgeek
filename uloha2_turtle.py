@@ -17,5 +17,4 @@ for i in range(10):
     turtle.forward(kratsi)
     turtle.left(90)
 turtle.forward(delsi)    
-    
 
