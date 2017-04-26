@@ -26,5 +26,5 @@ turtle.forward(delsi)
 
 turtle.forward(delsi)
     
->>>>>>> 8f3133b588de92f3511333b8db1494736605d3a7
+
 
